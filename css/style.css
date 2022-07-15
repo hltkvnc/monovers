@@ -4353,7 +4353,7 @@ textarea.leave-comment__input {
   border-radius: 0;
   padding: 16px 38px;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 13px;
   font-family: var(--heading-font);
   color: var(--thm-black-color);
   -webkit-transition: all .4s ease;

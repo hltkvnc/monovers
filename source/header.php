@@ -35,6 +35,7 @@
         
         }
     </style>
+    <script src="https://kit.fontawesome.com/c10d3196b3.js" crossorigin="anonymous"></script>
 </head>
 
 <body class="home-one">
@@ -64,9 +65,7 @@
                             <li>
                                 <a href="services.html">Referanslar</a>
                             </li>
-                            <li>
-                                <a href="#">Kariyer</a>
-                            </li>
+                          
                             <li><a href="contact.html">İletişim</a></li>
                         </ul>
                         

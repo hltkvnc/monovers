@@ -33,7 +33,7 @@
 */
 :root {
   --thm-font: 'Open Sans';
-  --heading-font: 'Work Sans';
+  --heading-font: 'Montserrat', sans-serif;;
   --thm-base-color: #20dfe3;
   --thm-base-color-rgb: 32, 223, 227;
   --thm-primary-color: #5538f4;
@@ -57,7 +57,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
 }
 
 a,
@@ -123,7 +123,7 @@ hr.style-one {
 .post-filter li span {
   cursor: pointer;
   color: var(--thm-text-color);
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -146,7 +146,7 @@ hr.style-one {
   font-size: 18px;
   font-weight: 500;
   margin: 0;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
 }
 
 .block-title__tag-line + .block-title__title {
@@ -156,7 +156,7 @@ hr.style-one {
 .block-title__title {
   margin: 0;
   color: var(--thm-black-color);
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 40px;
   line-height: 50px;
@@ -220,7 +220,7 @@ hr.style-one {
   color: #fff;
   font-size: 20px;
   line-height: 32px;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
 }
 
@@ -253,7 +253,7 @@ hr.style-one {
   display: inline-block;
   vertical-align: middle;
   font-size: 17px;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   color: #fff;
   -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 46, 85, 0.1);
@@ -282,7 +282,7 @@ hr.style-one {
 
 .post-pagination a {
   font-size: 24px;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
   color: var(--thm-black-color);
@@ -848,7 +848,7 @@ hr.style-one {
 .site-header__header-one .header-navigation ul.navigation-box > li > a {
   font-size: 17px;
   font-weight: 500;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   color: var(--thm-black-color);
 }
 
@@ -872,7 +872,7 @@ hr.style-one {
 .site-header__header-two .header-navigation ul.navigation-box > li > a {
   font-size: 17px;
   font-weight: 500;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   color: #0055D4;
 }
 
@@ -910,7 +910,7 @@ hr.style-one {
   margin: 0;
   color: #fff;
   font-size: 15px;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
 }
 
 .topbar-one__right-info {
@@ -931,7 +931,7 @@ hr.style-one {
 .topbar-one__right-info li {
   color: #fff;
   font-size: 15px;
-  font-family: var(--heading-font);
+  font-family: 'Montserrat', sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2823,7 +2823,7 @@ textarea.leave-comment__input {
   background-size: cover;
   background-position: center center;
   margin-top: -215px;
-  padding-top: 355px;
+  padding-top: 200px;
   padding-bottom: 90px;
 }
 

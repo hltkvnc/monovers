@@ -24,16 +24,22 @@
     <link rel="stylesheet" href="plugins/inchtech-icons/style.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
     <style>
         #myVideo {
         position: fixed;
         right: 0;
+        left:0;
         margin-top:100px;
         margin:auto;
-        width: 100%;
+        width: 75%;
         height: 100%;
         
         }
+        
+       
     </style>
     <script src="https://kit.fontawesome.com/c10d3196b3.js" crossorigin="anonymous"></script>
 </head>
@@ -47,7 +53,7 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box">
                         <a class="navbar-brand" href="index.php">
-                            <img src="images/resources/logo-dark.png" class="main-logo" alt="Monovers Logo" width="20%" />
+                            <img src="images/resources/logo-dark.png" class="main-logo" alt="Monovers Logo"  />
                         </a>
                         <button class="menu-toggler" data-target=".main-navigation">
                             <span class="fa fa-bars"></span>

@@ -222,7 +222,7 @@
     width: 100%;
     display: none;
     text-align: left;
-    background: #181818;
+    background: gainsboro;
     max-height: 70vh;
     overflow-y: scroll;
   }
@@ -257,7 +257,7 @@
     padding-right: 15px;
   }
   .site-header__header-two .header-navigation .container .menu-toggler {
-    color: #fff;
+    color: #0055D4;
   }
 }
 
